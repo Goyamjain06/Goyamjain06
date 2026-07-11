@@ -5,17 +5,17 @@
 - 🔭 Building projects across operating systems, backend development, and real-world applications
 - 🌱 Currently deepening my knowledge of system design, databases, and clean, testable code
 - 💬 Ask me about Java, OOP, operating systems, or C/C++
-- 📫 Reach me: Goyamjain4506@gmail.com · https://www.linkedin.com/in/goyam-jain-940a6a30a/
+- 📫 Reach me: [goyamjain4506@gmail.com](mailto:goyamjain4506@gmail.com) · [LinkedIn](https://www.linkedin.com/in/goyam-jain-940a6a30a/)
 
 ---
 
 ### 🛠️ Tech I work with
 
 **Languages:** Java · C · C++ · Python · SQL
-**Backend & Web:** JDBC · [Node.js / whatever your chat app uses]
+**Backend & Web:** Node.js · Socket.io · JDBC
 **Databases:** MySQL
 **Concepts:** Operating Systems · OOP · Multithreading · Data Structures
-**Tools:** Git · Maven · [Docker / Postman / etc.]
+**Tools:** Git · Maven · Docker
 
 ---
 
@@ -27,7 +27,7 @@
 
 **[SimpleMultithreader](https://github.com/Goyamjain06/simple-multithreader)** — A C++ library that parallelizes loops using POSIX threads and C++11 lambdas, with matrix and vector demos.
 
-**[Realtime Chat App](https://github.com/Goyamjain06/realtime-chat-app)** — A real-time messaging application built with JavaScript. [Add stack: e.g. Node.js + Socket.io]
+**[Realtime Chat App](https://github.com/Goyamjain06/realtime-chat-app)** — A real-time messaging application built with Node.js and Socket.io for instant, event-driven communication.
 
 ---
 
